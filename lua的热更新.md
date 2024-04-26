@@ -30,7 +30,7 @@ end
 
 1.代码更改 2.上传新代码 3.重载lua代码（loadfile之类）4.切换代码帧 5.GC回收旧代码 6.错误处理
 
-![liu](F:\github_project\lua\liu.png)
+![liu](https://github.com/Abelabc/lua_MD/blob/main/liu.png)
 
 热更新模块
 
